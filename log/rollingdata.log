@@ -1,0 +1,10 @@
+2017-11-29 11:45:52 [mainhread] com.gesoft.service.JavaDbService.init(JavaDbService.java:47)evel com.gesoft.service.JavaDbService.init(JavaDbService.java:47)ogger[47] - 创建数据库连接池
+2017-11-29 11:45:52 [mainhread] com.jolbox.bonecp.BoneCPConfig.setReleaseHelperThreads(BoneCPConfig.java:618)evel com.jolbox.bonecp.BoneCPConfig.setReleaseHelperThreads(BoneCPConfig.java:618)ogger[618] - releaseHelperThreads has been deprecated -- it tends to slow down your application more.
+2017-11-29 11:45:54 [mainhread] com.gesoft.service.JavaDbService.init(JavaDbService.java:49)evel com.gesoft.service.JavaDbService.init(JavaDbService.java:49)ogger[49] - 创建数据库连接池完成！
+2017-11-29 11:47:58 [mainhread] com.gesoft.service.JavaDbService.init(JavaDbService.java:46)evel com.gesoft.service.JavaDbService.init(JavaDbService.java:46)ogger[46] - 创建数据库连接池
+2017-11-29 11:47:58 [mainhread] com.jolbox.bonecp.BoneCPConfig.setReleaseHelperThreads(BoneCPConfig.java:618)evel com.jolbox.bonecp.BoneCPConfig.setReleaseHelperThreads(BoneCPConfig.java:618)ogger[618] - releaseHelperThreads has been deprecated -- it tends to slow down your application more.
+2017-11-29 11:47:59 [mainhread] com.gesoft.service.JavaDbService.init(JavaDbService.java:48)evel com.gesoft.service.JavaDbService.init(JavaDbService.java:48)ogger[48] - 创建数据库连接池完成！
+2017-11-29 11:48:21 [pool-2-thread-5hread] com.gesoft.thread.TaskThread.run(TaskThread.java:33)evel com.gesoft.thread.TaskThread.run(TaskThread.java:33)ogger[33] - ORA-12170: TNS: 连接超时
+ORA-06512: 在 "AJXZXK_ADMIN.PKG_AJJ_DATA_TZRY", line 13
+ORA-06512: 在 line 1
+
